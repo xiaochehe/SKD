@@ -11,3 +11,15 @@ To guarantee the action-recognition performance, we prefer to use advanced and t
 	In the proposed network, a graph matching loss is proposed to distill the graph structural knowledge at an intermediate representation level. 
 	We also propose a new gradient revision strategy to seek a balance between mimicking the teacher model and directly improving the student model's accuracy.
 	Experiments are conducted on \textbf{Kenetics400}, \textbf{NTU RGB+D} and \textbf{Penn} action recognition datasets and the comparison results demonstrate the effectiveness of our scheme.
+
+'''
+@article{bian2021structural,
+  title={Structural Knowledge Distillation for Efficient Skeleton-Based Action Recognition},
+  author={Bian, Cunling and Feng, Wei and Wan, Liang and Wang, Song},
+  journal={IEEE Transactions on Image Processing},
+  volume={30},
+  pages={2963--2976},
+  year={2021},
+  publisher={IEEE}
+}
+'''

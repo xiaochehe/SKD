@@ -12,7 +12,7 @@ To guarantee the action-recognition performance, we prefer to use advanced and t
 	We also propose a new gradient revision strategy to seek a balance between mimicking the teacher model and directly improving the student model's accuracy.
 	Experiments are conducted on \textbf{Kenetics400}, \textbf{NTU RGB+D} and \textbf{Penn} action recognition datasets and the comparison results demonstrate the effectiveness of our scheme.
 
-'''
+`
 @article{bian2021structural,
   title={Structural Knowledge Distillation for Efficient Skeleton-Based Action Recognition},
   author={Bian, Cunling and Feng, Wei and Wan, Liang and Wang, Song},
@@ -22,4 +22,4 @@ To guarantee the action-recognition performance, we prefer to use advanced and t
   year={2021},
   publisher={IEEE}
 }
-'''
+`

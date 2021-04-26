@@ -24,4 +24,4 @@ To guarantee the action-recognition performance, we prefer to use advanced and t
 }
 ```
 
-[IEEE TIP SKD PDF](https://ieeexplore.ieee.org/abstract/document/9351789)
+[IEEE_TIP_SKD.pdf](https://ieeexplore.ieee.org/abstract/document/9351789)

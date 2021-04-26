@@ -23,3 +23,5 @@ To guarantee the action-recognition performance, we prefer to use advanced and t
   publisher={IEEE}
 }
 ```
+
+[IEEE TIP SKD PDF](https://ieeexplore.ieee.org/abstract/document/9351789)
